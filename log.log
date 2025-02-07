@@ -1,0 +1,7 @@
+ERROR:qasync._QEventLoop:Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000231815B1010>
+ERROR:qasync._QEventLoop:Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002318158D2B0>, 3133.0214456)])']
+connector: <aiohttp.connector.TCPConnector object at 0x00000231815B0C20>
+ERROR:qasync._QEventLoop:Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001D7D3EB1010>
